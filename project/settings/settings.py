@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     "qux.auth",
     "qux.token",
     "apps.gizmo",
+    "apps.codechecker.apps.CodecheckerConfig",
 ]
 
 MIDDLEWARE = [
